@@ -1,0 +1,13 @@
+{
+  "name": "webfilter",
+  "version": "0.1.0",
+  "description": "filter unwanted domains",
+  "main": "webfilter.js",
+  "author": {
+    "name": "aaronps",
+    "email": ""
+  },
+  "dependencies": {
+    "log4js": "0.x.x"
+  }
+}
